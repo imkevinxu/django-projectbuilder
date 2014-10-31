@@ -1,6 +1,8 @@
 [Django Project Builder](https://github.com/prototypemagic/django-projectbuilder)
 ======================
 
+### *Extremely outdated, please use [django-kevin](https://github.com/imkevinxu/django-kevin) instead.*
+
 ## Introduction
 
 Django Project Builder is the fastest, easiest way to build a new Django project!
